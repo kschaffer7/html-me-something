@@ -2,24 +2,48 @@ body {
     color: white;
     background-color: rgb(45, 51, 51);
     font-size: 120%;
-    font-family: cursive;
+    font-family: sans-serif;
     margin-top: 100px;
     margin-bottom: 100px;
-    margin-right: 150px;
-    margin-left: 150px;
+    margin-right: 0px;
+    margin-left: 0px;
+    text-align: center;
   }
-  article{
+  header {
+      background-color: rgb(153, 148, 148);
+      padding-bottom: 30px;
+  }
+  main {
+      background-color: dimgray;
+      padding-bottom: 30px;
+  }
+  footer {
+      background-color: rgb(66, 66, 66);
+      padding-bottom: 30px;
+  }
+  article {
       padding-bottom: 100px;
   }
+  h1 {
+      background-color: rgb(83, 35, 105);
+  }
+  h3 {
+      color: white;
+      background-color: rgb(3, 104, 105);
+  }
   h2.firstcar {
-      color: red;
+      color: white;
+      background-color:rgb(156, 28, 71);
   }
   h2.secondcar {
-      color: pink;
+      color: white;
+      background-color: rgb(146, 66, 93);
   }
-  h2.thirdcar{
-      color: red;
+  h2.thirdcar {
+      color: white;
+      background-color: rgb(134, 96, 109);
   }
-  #ending {
-      background-color: mediumseagreen;
+  #photocaption {
+      font-size: 75%;
+      font-style: italic;
   }
