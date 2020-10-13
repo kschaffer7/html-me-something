@@ -28,19 +28,15 @@ body {
       background-color: rgb(83, 35, 105);
   }
   h3 {
-      color: white;
       background-color: rgb(3, 104, 105);
   }
   h2.firstcar {
-      color: white;
       background-color:rgb(156, 28, 71);
   }
   h2.secondcar {
-      color: white;
       background-color: rgb(146, 66, 93);
   }
   h2.thirdcar {
-      color: white;
       background-color: rgb(134, 96, 109);
   }
   #photocaption {
